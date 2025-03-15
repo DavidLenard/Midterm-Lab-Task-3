@@ -1,5 +1,6 @@
-# [Midterm Lab Task 3](https://github.com/user-attachments/files/19254801/Dashboard.-.Garcia.xlsx)
-- This portfolio illustrates how to build an interactive Excel dashboard that tracks Data Science salary trends and job patterns. It analyzes job distribution, salary fluctuations by role and company size, and sector-specific employment trends using pivot tables, charts, slicers, and an optional map.
+# [Midterm Lab Task 3]
+- This portfolio demonstrates how to create an interactive Excel dashboard that tracks Data Science salary trends and job patterns. It looks at job distribution, salary changes by role and company size, and sector-based employment trends using pivot tables, charts, slicers, and an optional map.
+  
 ## Step by Step Process
 
 1. Use the given data  
@@ -36,24 +37,21 @@
 
 ## Screenshots During Analysis
 - Sal by Role Type
-![Image](https://github.com/user-attachments/assets/898e2583-05d0-43ba-bff6-73cc5d6e916d)
+![Image](https://github.com/user-attachments/assets/9fdda809-c91f-477c-b7b0-e51c373af948)
 
 - Sal by Size
-![Image](https://github.com/user-attachments/assets/7f413d6b-0aa0-4bb9-a236-eb65221ccb30)
-
+![Image](https://github.com/user-attachments/assets/6ee1c973-0647-4f6e-98a5-e8f74541ac36)
+  
 - Sal by State
-![Image](https://github.com/user-attachments/assets/c45cb50d-2cfc-4ffb-a2db-aa23c96ed8db)
+![Image](https://github.com/user-attachments/assets/0d35863c-ee6c-47bc-8a65-93d16e4d47ce)
 
 - Sector by Size 
-![Image](https://github.com/user-attachments/assets/6b067e00-dc88-49af-9734-efc639a5d4bd)
-
+![Image](https://github.com/user-attachments/assets/00277225-9277-4b66-b035-cd28e65de24e)
 - Sector by Salary
-![Image](https://github.com/user-attachments/assets/a0cf2cb9-5b61-4184-95a1-ab1457c13e9a)
-
+![Image](https://github.com/user-attachments/assets/d1ffabf0-8006-48a2-8e7f-79b51e8bf108)
 ### Dashboard 
-![Image](https://github.com/user-attachments/assets/c7df6704-f194-4730-b467-b14370b41d39)
-
-![Image](https://github.com/user-attachments/assets/f6fe144f-b756-46f2-8abc-ded37425e7cc)
+![Image](https://github.com/user-attachments/assets/0e51eb8b-e8df-4695-a832-90c7162aa346)
+![Image](https://github.com/user-attachments/assets/a1628ac1-af16-4316-9793-7fc81cc89c80)
 
 ### Map 
-![Image](https://github.com/user-attachments/assets/4d11e5ab-f151-497a-b8f1-cdf82ebf9a2b)
+![Image](https://github.com/user-attachments/assets/f5e061c8-82e3-4432-abfd-e58f55045d47)
